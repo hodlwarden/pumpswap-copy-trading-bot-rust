@@ -3,7 +3,7 @@
 ![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hodlwarden/pumpswap-copy-trading-bot-rust)
 
-A high-performance copy trading bot for PumpSwap built in Rust, designed to automatically mirror trades from selected wallets or traders.
+A high-performance copy trading bot for Bonkfun built in Rust, designed to automatically mirror trades from selected wallets or traders.
 
 ## Features
 
