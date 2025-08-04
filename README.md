@@ -1,4 +1,4 @@
-# PumpSwap Copy Trading Bot (Rust)
+# Bonkfun Copy Trading Bot (Rust)
 
 ![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hodlwarden/pumpswap-copy-trading-bot-rust)
@@ -25,8 +25,8 @@ A high-performance copy trading bot for PumpSwap built in Rust, designed to auto
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hodlwarden/pumpswap-copy-trading-bot-rust.git
-   cd pumpswap-copy-trading-bot-rust
+   git clone https://github.com/hodlwarden/bonkfun-copy-trading-bot-rust.git
+   cd bonkfun-copy-trading-bot-rust
 2. Complete config of .env
    Simply rename the .env.example to .env and fill all configs.
    ```bash
