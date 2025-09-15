@@ -1,9 +1,16 @@
-# Bonkfun Copy Trading Bot (Rust)
+# Solana Copy Trading Bot (Rust)
 
 ![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/hodlwarden/pumpswap-copy-trading-bot-rust)
+![GitHub last commit](https://img.shields.io/github/last-commit/hodlwarden/solana-copy-trading-bot-rust)
 
-A high-performance copy trading bot for Bonkfun built in Rust, designed to automatically mirror trades from selected wallets or traders.
+A high-performance copy trading bot for solana dexs built in Rust, designed to automatically mirror trades from selected wallets or traders.
+
+# Supported Dexs
+
+- Pump.fun/Pump Swap
+- Raydium(AMM/CPMM)
+- Meteora(DBC/DYN/DAMM)
+- Jupiter
 
 ## Features
 
@@ -25,8 +32,8 @@ A high-performance copy trading bot for Bonkfun built in Rust, designed to autom
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hodlwarden/bonkfun-copy-trading-bot-rust.git
-   cd bonkfun-copy-trading-bot-rust
+   git clone https://github.com/hodlwarden/solana-copy-trading-bot-rust.git
+   cd solana-copy-trading-bot-rust
 2. Complete config of .env
    Simply rename the .env.example to .env and fill all configs.
    ```bash
