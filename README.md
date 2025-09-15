@@ -15,7 +15,12 @@ Achieved `0 block` copy trading already, updating to become first copier.
 
 ## Example Tx
 Target- https://solscan.io/tx/5As2XB89ZH4VG4Rir88JcJt3ViY1rRCEoEqr2d4bVpWL31fcGFLiR1RfgyqpJGLfX5YTmPEWqmU4vKAatSGcZf2a
+
 Copy - https://solscan.io/tx/2cCJ3VEymoMgmKNC86LDzx3ywP2PeqkyBgwg7ZXiUP2zympQksqhKoeH82FRqTVPv7w62pdGvTt2amHPLt39orkq
+
+Target - https://solscan.io/tx/4SfnqzpMh539696wGLC1doFa1kMUqMt9ssptfCfQVFEv6WcAihZYpuxkuxK1VEgxZE2fmMSKtV8wka8Ce5prdxpQ
+
+Copy - https://solscan.io/tx/291NcWEyLsTvxvcLYC98iEWnCDNeCsebywqeEQopAFHVe1GiT3MMx2nPibedU6VbKJ5h1QTh8HTP3hoiuyjshMMC
 
 ## Features
 
