@@ -1,4 +1,4 @@
-# Solana Copy Trading Bot (Rust)
+# 🚀🚀🚀 Solana Copy Trading Bot (Rust) 🚀🚀🚀 
 
 ![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hodlwarden/solana-copy-trading-bot-rust)
