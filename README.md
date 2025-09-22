@@ -8,12 +8,12 @@ Achieved `0 block` copy trading already, updating to become first copier.
 
 ## Supported Dexs
 
-- Pump.fun/Pump Swap
-- Raydium(AMM/CPMM)
-- Meteora(DBC/DYN/DAMM)
-- Jupiter
+- Pump.fun/Pump Swap Copy Trading
+- Raydium(AMM/CPMM) Copy Trading
+- Meteora(DBC/DYN/DAMM) Copy Trading
+- Jupiter Copy Trading
 
-## Example Tx
+##  Copy Trading Example Tx
 Target- https://solscan.io/tx/5As2XB89ZH4VG4Rir88JcJt3ViY1rRCEoEqr2d4bVpWL31fcGFLiR1RfgyqpJGLfX5YTmPEWqmU4vKAatSGcZf2a
 
 Copy - https://solscan.io/tx/2cCJ3VEymoMgmKNC86LDzx3ywP2PeqkyBgwg7ZXiUP2zympQksqhKoeH82FRqTVPv7w62pdGvTt2amHPLt39orkq
