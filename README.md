@@ -3,6 +3,8 @@
 ![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hodlwarden/solana-copy-trading-bot-rust)
 
+**[English](README.md) | [中文](README.zh-CN.md)**
+
 A high-performance copy trading bot for solana dexs built in Rust, designed to automatically mirror trades from selected wallets or traders.
 Achieved `0 block` copy trading already, updating to become first copier.
 
